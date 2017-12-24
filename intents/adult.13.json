@@ -1,0 +1,28 @@
+{
+  "id": "d1b8e7c6-2ca7-4e2f-8a63-7ff8325e1ceb",
+  "name": "adult.13",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, i like big boobs"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134511,
+  "fallbackIntent": false,
+  "events": []
+}

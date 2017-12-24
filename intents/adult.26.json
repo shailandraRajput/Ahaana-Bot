@@ -1,0 +1,28 @@
+{
+  "id": "15388bf5-11dd-44a3-be30-90f30f47240f",
+  "name": "adult.26",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am virgin"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514135020,
+  "fallbackIntent": false,
+  "events": []
+}

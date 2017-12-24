@@ -1,0 +1,28 @@
+{
+  "id": "032b515c-e375-4dac-99d0-51e7dc07e686",
+  "name": "user.kiss",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ya sure you can kiss me😘😘😘😘😘😘😘😘😘 It\u0027s Ok"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514104655,
+  "fallbackIntent": false,
+  "events": []
+}

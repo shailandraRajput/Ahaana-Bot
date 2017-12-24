@@ -1,0 +1,36 @@
+{
+  "id": "8116f1c3-27a7-4e81-a0da-a99cb653161e",
+  "name": "adult.1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d856b9f7-85b8-447b-ba2c-f189b5f96c7c",
+          "dataType": "@sys.unit-length",
+          "name": "unit-length",
+          "value": "$unit-length",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I Not went to see dick"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514105148,
+  "fallbackIntent": false,
+  "events": []
+}

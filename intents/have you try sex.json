@@ -1,0 +1,28 @@
+{
+  "id": "d8ce13b8-7bbe-4369-a7b9-ec1bfad4189e",
+  "name": "have you try sex",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "NO"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514135377,
+  "fallbackIntent": false,
+  "events": []
+}

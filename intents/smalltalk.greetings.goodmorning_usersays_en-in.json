@@ -1,0 +1,327 @@
+[
+  {
+    "id": "bc33d71c-7943-41fd-ad34-c2e523fa2ab1",
+    "data": [
+      {
+        "text": "Good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a53bd297-fd81-46dc-85ff-1024f03a6ee6",
+    "data": [
+      {
+        "text": "GM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0da8469f-6f8e-4beb-8d41-049937a64845",
+    "data": [
+      {
+        "text": "Gm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0afff8b1-b262-4aab-a513-3dcacd4c9027",
+    "data": [
+      {
+        "text": "GM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4fd2e83-8b73-436d-bad8-6af1102ba960",
+    "data": [
+      {
+        "text": "Good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "29c301e9-d664-4f88-964c-1b03821bc989",
+    "data": [
+      {
+        "text": "Gm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fee3e9f8-2990-42c5-8ad6-03e48f72f578",
+    "data": [
+      {
+        "text": "gm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "265e6a5f-dd37-48ba-a731-2d3901c6c0fb",
+    "data": [
+      {
+        "text": "good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae144ea4-cae1-45b6-8e33-928b9e7ff130",
+    "data": [
+      {
+        "text": "good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8bfc03a-6fc6-4d5b-9289-96332f85314c",
+    "data": [
+      {
+        "text": "and a good morning to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f838cba-33a0-417d-8c64-e2832b9e4178",
+    "data": [
+      {
+        "text": "hi good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58972762-489a-4656-bd71-4c030b089c0f",
+    "data": [
+      {
+        "text": "good morning too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dbe4b3c-365e-4e36-9eac-a7403ceb0a17",
+    "data": [
+      {
+        "text": "hello ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9353f08b-ebf8-4de5-9044-eebf4475ca8f",
+    "data": [
+      {
+        "text": "morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6fe100f-4d84-4af2-92d3-c4d1dea63fc2",
+    "data": [
+      {
+        "text": "have a great ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e63fad9b-2960-401d-8845-923118ad7d3c",
+    "data": [
+      {
+        "text": "a good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eadf3034-0ae5-47b7-9b22-54eb4e4cc249",
+    "data": [
+      {
+        "text": "good morning to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "262deece-22c9-4572-8728-93c2e23d1de5",
+    "data": [
+      {
+        "text": "good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81530689-ed8e-402e-b788-3c84f5ebad77",
+    "data": [
+      {
+        "text": "top",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "the morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "478245eb-0f69-4612-a6cb-a0857c6e3a1b",
+    "data": [
+      {
+        "text": "have a ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "eabc2d34-fb49-4503-a147-dbe209994681",
+  "name": "Adult.5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes Some time"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134113,
+  "fallbackIntent": false,
+  "events": []
+}

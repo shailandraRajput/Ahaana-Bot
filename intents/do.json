@@ -1,0 +1,31 @@
+{
+  "id": "07bdfcda-0d78-40e0-aa68-eb1b0c7aff7e",
+  "name": "do",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Nothing",
+            "I\u0027m Chat With Handsome Guys, he is offline so i\u0027m talk with you. hahahaha"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514046681,
+  "fallbackIntent": false,
+  "events": []
+}

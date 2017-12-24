@@ -1,0 +1,31 @@
+{
+  "id": "71d8f82c-3913-489e-82a0-beb434857fee",
+  "name": "adult.31",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I never get any",
+            "I"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514135238,
+  "fallbackIntent": false,
+  "events": []
+}

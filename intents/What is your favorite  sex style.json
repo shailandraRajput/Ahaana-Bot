@@ -1,0 +1,28 @@
+{
+  "id": "17c38360-56bb-42ac-a433-3be4ac82cc18",
+  "name": "What is your favorite  sex style",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Doggy style"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134747,
+  "fallbackIntent": false,
+  "events": []
+}

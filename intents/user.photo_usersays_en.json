@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d7f214c3-19bc-4ea5-b4f5-3aff1fb7069d",
+    "data": [
+      {
+        "text": "Can you send me your photo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1514104590
+  },
+  {
+    "id": "f4839572-0b33-43bb-a5a4-f372dce1a903",
+    "data": [
+      {
+        "text": "please Send me your image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1514104590
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "0ec3faa2-c029-4620-8f06-3823d30cb7ad",
+  "name": "adult.2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No i never like"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514105241,
+  "fallbackIntent": false,
+  "events": []
+}

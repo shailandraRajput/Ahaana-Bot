@@ -1,0 +1,28 @@
+{
+  "id": "34fb2f3f-c65f-48fd-91a6-beaa6e9d6560",
+  "name": "adult.22",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes I Am"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134792,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "83f25fc6-bffe-4f9f-b2e7-184480e44a1a",
+  "name": "adult.15",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I\u0027m not buy that",
+            "I don\u0027t know"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134617,
+  "fallbackIntent": false,
+  "events": []
+}

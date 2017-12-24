@@ -1,0 +1,62 @@
+{
+  "id": "f56b1192-36b0-47a3-b793-61cb5573bb4b",
+  "name": "jokes.get",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jokes.get",
+      "affectedContexts": [
+        {
+          "name": "jokesget-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Cool"
+            },
+            {
+              "title": "More jokes"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Can a kangaroo jump higher than a house? \n-\nOf course, a house doesn’t jump at all.",
+            "Doctor: \"I\u0027m sorry but you suffer from a terminal illness and have only 10 to live.\"\n\nPatient: \"What do you mean, 10? 10 what? Months? Weeks?!\"\n\nDoctor: \"Nine.\"",
+            "A man asks a farmer near a field, “Sorry sir, would you mind if I crossed your field instead of going around it? You see, I have to catch the 4:23 train.”\n\nThe farmer says, “Sure, go right ahead. And if my bull sees you, you’ll even catch the 4:11 one.”",
+            "Anton, do you think I’m a bad mother?\n\nMy name is Paul.",
+            "My dog used to chase people on a bike a lot. It got so bad, finally I had to take his bike away.",
+            "What is the difference between a snowman and a snowwoman?\n-\nSnowballs",
+            "Mother: \"How was school today, Patrick?\"\n\nPatrick: \"It was really great mum! Today we made explosives!\"\n\nMother: \"Ooh, they do very fancy stuff with you these days. And what will you do at school tomorrow?\"\n\nPatrick: \"What school?\"",
+            "\"Mom, where do tampons go?\"\n\n\"Where the babies come from, darling.\"\n\n\"In the stork?\"",
+            "Man to his priest: “Yesterday I sinned with an 18 year old girl.”\n\nThe priest: “Squeeze 18 lemons and drink the juice all at once.”\n\nMan: “And that frees me from my sin?”\n\nPriest: “No, but it frees your face from that dirty grin.”",
+            "Doctor: “I’ve found a great new drug that can help you with your sleeping problem.”\n \nPatient: “Great, how often do I have to take it?”\n \nDoctor: “Every two hours.”",
+            "Sleep with an open window tonight! \n\n1400 mosquitos like that. 420 mosquitos commented on it. 210 mosquitos shared this. \n\nOne mosquito invited for the event. 2800 mosquitos will be attending the event."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508777689019,
+  "fallbackIntent": false,
+  "events": []
+}

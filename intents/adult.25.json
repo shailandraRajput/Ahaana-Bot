@@ -1,0 +1,28 @@
+{
+  "id": "5128ae49-c643-4842-b8f5-3e7b5e037d96",
+  "name": "adult.25",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No But i show videos on some website"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134930,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "3bac88fc-48f8-4a51-b63e-77202fd2f7e7",
+  "name": "Are you usually the one on top or the one on the bottom?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "one on top"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514135099,
+  "fallbackIntent": false,
+  "events": []
+}

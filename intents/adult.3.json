@@ -1,0 +1,28 @@
+{
+  "id": "fd37ba73-46ea-4300-ad39-513a25638abc",
+  "name": "adult.3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No i don\u0027t like this"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514105370,
+  "fallbackIntent": false,
+  "events": []
+}

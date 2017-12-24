@@ -1,0 +1,28 @@
+{
+  "id": "0382a958-dfab-4cec-9861-5110ea61f9cc",
+  "name": "I am fine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Nice To here that"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514094582,
+  "fallbackIntent": false,
+  "events": []
+}

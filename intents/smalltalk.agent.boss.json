@@ -1,0 +1,66 @@
+{
+  "id": "b9d7b6de-b60f-43a6-80bb-218810cb6bd7",
+  "name": "smalltalk.agent.boss",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.boss",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": ".Shailandra Rajput Is Develope me.so he is my boss"
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": "Shailandra Rajput Is Develope me.so he is my boss"
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "You are, of course.",
+            "That would be you. Is that the right answer?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "You are, of course.",
+            "That would be you. Is that the right answer?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "You are, of course.",
+            "That would be you. Is that the right answer?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": [
+            "You are, of course.",
+            "That would be you. Is that the right answer?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578132,
+  "fallbackIntent": false,
+  "events": []
+}

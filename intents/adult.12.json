@@ -1,0 +1,28 @@
+{
+  "id": "cc0591ee-9cc8-4fbe-bf67-c7a430a365b4",
+  "name": "adult.12",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "NO i Don\u0027t know"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134574,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "68c1ea43-1625-4983-86dd-81ef9e5c65d8",
+  "name": "can you please nude ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "NO Never😡😡😡"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514135176,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "472ca1a4-14b7-4a59-b38f-03465e8bb8ee",
+  "name": "adult.8",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes On t.me/brazzerspremium channel"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134345,
+  "fallbackIntent": false,
+  "events": []
+}

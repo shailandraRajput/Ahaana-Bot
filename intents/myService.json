@@ -1,0 +1,28 @@
+{
+  "id": "fecae656-0663-4e9f-bc15-786f9e0acbd5",
+  "name": "myService",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am Tell you jokes and talk with you"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514040399,
+  "fallbackIntent": false,
+  "events": []
+}

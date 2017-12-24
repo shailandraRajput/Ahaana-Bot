@@ -1,0 +1,28 @@
+{
+  "id": "948ce66a-c73a-47c0-b3b8-013eec3f2744",
+  "name": "emoji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "😃 😄"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514105403,
+  "fallbackIntent": false,
+  "events": []
+}

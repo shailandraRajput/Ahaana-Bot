@@ -1,0 +1,255 @@
+[
+  {
+    "id": "0df2d42e-98ef-49f4-af5f-b7ac97642326",
+    "data": [
+      {
+        "text": "nice",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "meet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ff3ac9f-2279-427d-9f40-aa4df667790f",
+    "data": [
+      {
+        "text": "glad to ",
+        "userDefined": false
+      },
+      {
+        "text": "meet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "feef0174-fe23-4874-9b54-dca2f737254c",
+    "data": [
+      {
+        "text": "pleasure to ",
+        "userDefined": false
+      },
+      {
+        "text": "meet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81743b53-1bc7-4f1e-a5b4-30befc3574ef",
+    "data": [
+      {
+        "text": "nice",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "meet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31877c9d-7a44-498f-93fc-7f1d7a010079",
+    "data": [
+      {
+        "text": "nice",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdc0b976-0ef5-43c6-883f-6d4ac5f372f9",
+    "data": [
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " was ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77994aae-cb60-44a6-8190-51e4082d946c",
+    "data": [
+      {
+        "text": "pleasure to ",
+        "userDefined": false
+      },
+      {
+        "text": "meet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58152f70-ef9b-4cb9-ae4e-f971b0423606",
+    "data": [
+      {
+        "text": "good to know ",
+        "userDefined": false
+      },
+      {
+        "text": "each",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de543f14-c0a1-477d-9d51-6c87d9087131",
+    "data": [
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " was very ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "meet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c568041c-a18f-4c42-8a33-d514dd05974c",
+    "data": [
+      {
+        "text": "pleased to ",
+        "userDefined": false
+      },
+      {
+        "text": "meet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

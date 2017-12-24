@@ -1,0 +1,28 @@
+{
+  "id": "2e5ded86-6c03-467d-8ccb-3f40ac326954",
+  "name": "user.photo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I have only one photo which is my Profile pick"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514104590,
+  "fallbackIntent": false,
+  "events": []
+}

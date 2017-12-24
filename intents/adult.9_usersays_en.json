@@ -1,0 +1,26 @@
+[
+  {
+    "id": "42c3d3a1-e1f5-4cf1-915c-3d9aa95a36ca",
+    "data": [
+      {
+        "text": "Have you do sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514134381
+  },
+  {
+    "id": "eda10ef0-11d4-4698-a676-3e1e1a72aa35",
+    "data": [
+      {
+        "text": "How many people have you slept with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514134381
+  }
+]

@@ -1,0 +1,153 @@
+{
+  "id": "065e63a5-5243-4cad-b161-c3cb096cd184",
+  "parentId": "f56b1192-36b0-47a3-b793-61cb5573bb4b",
+  "rootParentId": "f56b1192-36b0-47a3-b793-61cb5573bb4b",
+  "name": "jokes.get.more",
+  "auto": true,
+  "contexts": [
+    "jokesget-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jokes.get",
+      "affectedContexts": [
+        {
+          "name": "jokesget-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "More jokes"
+            },
+            {
+              "title": "Funny"
+            },
+            {
+              "title": "Not funny"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "“My wife suffers from a drinking problem.”\n-\n“Oh is she an alcoholic?”\n-\n“No, I am, but she’s the one who suffers.”",
+            "I managed to lose my rifle when I was in the army. I had to pay $855 to cover the loss.\n \nI’m starting to understand why a Navy captain always goes down with his ship.",
+            "Coco Chanel once said that you should put perfume on places where you want to be kissed by a man. But hell does that burn!",
+            "A wife goes to consult a psychiatrist about her husband: “My husband is acting so weird. He drinks his morning coffee and then he goes and eats the mug! He only leaves the handle!”\n \nPsychiatrist: “Yes, that is weird. The handle is the best part.“",
+            "Doctor: “Do you do sports?”\n\nPatient: “Does sex count?”\n\nDoctor: “Yes.”\n\nPatient: “Then no.”"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Oh darling, since you’ve started dieting, you’ve become such a passionate kisser…\n\nWhat do you mean, passionate? I’m looking for food remains!",
+            "In Spain, there is a tradition after a bullfight to serve the mayor the bull’s testicles.\n-\nOne day after a bullfight, the mayor asks the waiter: “Funny, why are they so small today?”\n-\nThe waiter: “Today, sir, the bull won.”",
+            "Harry prays to God: Dear Lord, please make me win the lottery. \n\nThe next day Harry begs the Lord again: Please make it so I win the lottery, Lord! \n\nThe next day, Harry again prays: Please, please, dear Lord, make me win the lottery! \n\nSuddenly he hears a voice from above: Harry, would you kindly go and buy a lottery ticket.",
+            "“You know how it is in life. One door closes – that means another door opens…”\n \n“Yeah, very nice, but you either fix that or I’m expecting a serious discount on that car!”",
+            "A wife complains to her husband: “Just look at that couple down the road, how lovely they are. He keeps holding her hand, kissing her, holding the door for her, why can’t you do the same?”\n  \n   The husband: “Are you mad? I barely know that woman!”",
+            "Me and my wife decided that we don\u0027t want to have children anymore. So anybody who wants one can leave us their phone number and address and we will bring you one.",
+            "Police: “Open the door!” \n-\nMan: “I don’t want any balls!” \n-\nPolice: “What? We don’t have any balls!”\n-\nMan: “I know.”",
+            "In a boomerang shop: \"I\u0027d like to buy a new boomerang please. Also, can you tell me how to throw the old one away?\"",
+            "Patient: Oh doctor, I’m just so nervous. This is my first operation.\n-\nDoctor: Don\u0027t worry. Mine too.",
+            "Mr. Smith: “Doctor, you remember this strengthening solution you prescribed me yesterday?”\n \nDoctor: “Yes, what’s the matter?”\n \nMr. Smith: “I would like to use it but I can’t open the bottle!”",
+            "Doctor: Hello, did you come to see me with an eye problem?\n\nPatient: Wow, yes, how can you tell?\n\nDoctor: Because you came in through the window instead of the door.",
+            "Patient: Doctor help me please, every time I drink a cup of coffee I get this intense stinging in my eye.\n -\nDoctor: I suggest you remove the spoon before drinkin",
+            "Men 1845: I just killed a buffalo.\n\nMen 1952: I just fixed the roof.\n\nMen 2017: I just shaved my legs.",
+            "I was sitting in a bar one day and two really large women came in, talking in an interesting accent. \n\nSo I said, “Cool accent, are you two ladies from Ireland?” \n\nOne of them snarled at me, “It’s Wales, dumbo!” \n\nSo I corrected myself, “Oh, right, so are you two whales from Ireland?” \n\nThat’s about as far as I remember",
+            "I can’t believe I forgot to go to the gym today. That’s 7 years in a row now.",
+            "The inventor of AutoCorrect is a stupid mass hole. He can fake right off.",
+            "A naked women robbed a bank. Nobody could remember her face",
+            "A police officer stops a car.\n \nOfficer: “Your driver’s license please.”\n \nDriver: “I’m really sorry, I forgot.”\n \nOfficer: “At home?”\n \nDriver: “No, to do it.”",
+            "Why is women’s soccer so rare?\n-\nIt’s quite hard to find enough women willing to wear the same outfit.",
+            "I was making Russian tea. Unfortunately I cannot fish the teabag out of the vodka bottle.",
+            "I was making Russian tea. Unfortunately I cannot fish the teabag out of the vodka bottle.",
+            "I thought I’d tell you a good time travel joke – but you didn\u0027t like it.",
+            "So much has changed since my girlfriend told me we’re having a baby. For instance my name, address and telephone number!",
+            "I heard a report about a bad outbreak of the tummy bug, apparently 9 out of 10 people there suffered from diarrhea. I can’t stop thinking about that tenth person who apparently enjoyed it.",
+            "“You are so kind, funny and beautiful.” \n\n“Oh come on. You just want to get me to bed.” \n\n“And smart, too!”",
+            "Q: What do politicians and diapers have in common? \n-\nA: Both should be changed regularly, and both for the same reason",
+            "I’m selling my talking parrot. Why? Because yesterday, the bastard tried to sell me.",
+            "Do you know why women aren’t allowed in space? \n-\nTo avoid scenarios like: \"Houston, we have a problem!\" \n- \n\"What is the problem?\" \n-\n\"Yeah, great, pretend like you don’t know what I’m talking about!\"",
+            "A husband and a wife sit at the table, having dinner. The woman drops a bit of tomato sauce on her white top. \"Och, I look like a pig!\" \n\nThe man nods, \"And you dropped tomato sauce on your top!\"",
+            "A Prospective Husband Goes In A Book Store For Purchase A Strange Book.\n\nHe Sees A Sales Girl There \u0026 Then He Walk To Her.\n\nHusband: “Do You Have A Book Called “Husband – The Master Of The House?”\n\nSales Girl: “Sir, Fiction And Comics Are On The 1st Floor.“"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A Man Who Is Driving A Car Is Stopped By A Police Officer.\n\nThe Officer: “You Were Going At Least 75 In A 55 Zone”\n\nMan: “No Sir, I Was Going 60”\n\nWife: “Oh Johnny, You Were Going 80”\n\nOfficer: “I’m Also Going To Give You A Ticket For Your Broken Tail Light”\n\nMan: “Broken Tail Light? I Didn’t Know About A Broken Tail Light!”\n\nWife: “Oh Johnny, You’ve Known About That Tail Light For Weeks”\n\nOfficer: “I’m Also Going To Give You A Citation For Not Wearing Your Seat Belt”\n\nMan: “Oh, I Just Took It Off When You Were Walking Up To The Car”\n\nWife: “Oh, Johnny, You Never Wear Your Seat Belt”\n\nMan Turns To His Wife And Yells: “Shut Your Damn Mouth Bitch”\n\nOfficer Turns To The Woman And Asks: “Mam, Does Your Husband Talk To You This Way All The Time?”\n\nWife: “No, Only When He’s Drunk“",
+            "Girlfriend Is Like Internet Virus,\n\nShe Will Enter Your Life,\n\nScan Your Pocket,\n\nTransfer Your Money,\n\nEdit Your Mind,\n\nDownload Her Problems,\n\nDelete Your Smile \u0026 Hang Your Life.\n\nSo Avoid Your Girlfriend \u0026 Send Her Number To Me Don’t Worry About Me,\n\nI Am A Professional Anti Virus…",
+            "Boss: “We Are Very Keen On Cleanliness. Did You Wipe Your Feets On The Mat As You Came In?”\n\nNew Employee: “Yes, Sir”\n\nBoss: “We Are Also Keen On Truthfulness. There Is No Mat“",
+            "Banta Asked To Santa.\n\nBanta: “When You Kiss Your Wife?”\n\nSanta: “I Kiss My Wife Before I Go To Office Every Day And You?”\n\nBanta: “I Kiss Your Wife After You Go To Office Everyday”\n\nSanta: “Ha Ha Ha, I Am First“",
+            "A Father Passing By His Teenage Daughter’s Bedroom Was Astonished To See The Bed Was Nicely Made And Everything Was Neat And Tidy.\n\nThen He Saw An Envelope Propped Up Prominently On The Center Of The Pillow.\n\nIt Was Addressed”Dad”. With The Worst Premonition, He Opened The Envelope And Read The Letter With Trembling Hands:\n\nDear Dad,\n\nIt Is With Great Regret And Sorrow That I’m Writing You, But I’m Leaving Home.\n\nI Had To Elope With My New Boyfriend Randy Because I Wanted To Avoid A Scene With Mom And You.\n\nI’ve Been Finding Real Passion With Randy And He Is So Nice To Me.\n\nI Know When You Meet Him You’ll Like Him Too – Even With All His Piercings, Tattoos, And Motorcycle Clothes.\n\nBut It’s Not Only The Passion Dad, I’m Pregnant And Randy Said That He Wants Me To Have The Kid And That We Can Be Very Happy Together.\n\nEven Though Randy Is Much Older Than Me (Anyway, 42 Isn’t So Old These Days Is It?), And Has No Money, Really These Things Shouldn’t Stand In The Way Of Our Relationship,\n\nDon’t You Agree?\n\nRandy Has A Great Cd Collection; He Already Owns A Trailer In The Woods And Has A Stack Of Firewood For The Whole Winter.\n\nIt’s True He Has Other Girlfriends As Well But I Know He’ll Be Faithful To Me In His Own Way.\n\nHe Wants To Have Many More Children With Me And That’s Now One Of My Dreams Too.\n\nRandy Taught Me That Marijuana Doesn’t Really Hurt Anyone And He’ll Be Growing It For Us And We’ll Trade It With Our Friends For All The Cocaine And Ecstasy We Want.\n\nIn The Meantime, We’ll Pray That Science Will Find A Cure For Aids So Randy Can Get Better; He Sure Deserves It!!\n\nYour Loving Daughter,\n\nRosie.\n\nPS: Dad, None Of The Above Is True.\n\nI’m Over At The Neighbor’s House.\n\nI Just Wanted To Remind You That There Are Worse Things In Life Than My Report Card That’s In My Desk Drawer.\n\nPlease Sign It And Call When It Is Safe For Me To Come Home.\n\nI Love You Dad",
+            "Santa At Railway Station To Other People: “Did Anyone Lose Money Wrapped In A Rubber Band?”\n\nOne Said: “Yes I Did”\n\nSanta: “Well, It’s Your Lucky Day, I Found The Rubberband“",
+            "Researchers Now Believe That Raavan Cannot Be Evil,\n\nOne Who Takes Away Your Wife Can Only Be An Angel.",
+            "The Woman Who Invented The Phrase Ala Men R The Same Was A Chinese Woman Who Lost Her Husband",
+            "Jet Airways Launched A Scheme Where A Husband Can Take His Wife Free On Their Business Trip.\n\nAfter Big Success Of The Scheme.\n\nJet Airways Sent Letters To All Wives Asking About Their Experience?\n\n99% Wifes Replied\n\nWhat Scheme??\n\nWhich Trip??\n\nAnd When Was It?",
+            "Father Was Telling The Definition Success To His Son.\n\nFather: “Son, Success Is When Your Signature Turns Into An Autograph.”\n\nSon: “No Dad, Success Is When My Signature Turns Into Black Label Or Chivas Regal.”\n\nCheers To This Boy",
+            "It Was Happening In A Hospital That ICU Patients Died In Same Bed Every Sunday At 11 Am.\n\nDr. Thought, It Is Something Super Natural\n\nWorldwide Xpert Team Was Formed To Investigate The Cause.\n\nNext Sunday, Few Minute Before 11 Am, All Dr. \u0026 Nurses Stand Around That Bed \u0026 Start Waiting To See What It Was?\n\nThen Suddenly A Sardar (Part Time Sunday Sweeper) Entered The ICU, Unpluged The Life Support System Of That Bed \u0026 Pluged In His Mobile Charger.",
+            "Two Children Were Waiting In The Doctor’s Waiting Room.\n\nThe Little Girl Started Crying.\n\nLittle Boy Asked Her: “Why Are You Crying?”\n\nThe Girl Said: “I’m Here For Blood Test And The Doctor Is Going To Cut My Finger”\n\nThe Little Boy Too Started Crying.\n\nGirl: “Now Why Are You Crying?”\n\nBoy: “I’m Here For The Urine Test“"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Three Ways To Catch A Tiger\n1. Newton’s Method – Allow The Tiger To Catch You \u0026 Catch The Tiger\n\n2. Einstein’s Method – Chase The Tiger Until It Becomes Tired And Then Catch It.\n\n3. Police Method – Catch A Cat \u0026 Beat It Until It Accepts Its A Tiger",
+            "Once Ram, Laxman \u0026 Sita Were Travelling In A Mercedes.\n\nSuddenly The Petrol Got Over.\n\nRam \u0026 Laxman Went To Bring Petrol From The Nearest Petrol Pump.\n\nRavan Came \u0026 Kidnaped Sita In A Helicopter.\n\nRam Took Out His iPhone And Gave A Missed Call To Hanuman.\n\nHanuman Came On His Pulsar 220cc, Jumped \u0026 Punched The Helicopter.\n\nIt Broke Into 3 Halves.\n\nRavan: “How Did You Get Such Energy Dude?”\n\nHanuman: “Boost Is The Secret Of My Energy“",
+            "What Is The Great Example Of Mixed Emotions\n\nYour Greatest Enemy Falls From 8th Floor, On Your Brand New Car\n\nAnd You Don’t Know Whether To Laugh Or To Cry",
+            "There Are Basically 7 Types Of Girls…\n\n1. Hard Disk Girls: Remember Everything Forever.\n\n2. Ram Girls: Forgets About You The Moment You Turn Her Off.\n\n3. Screen Saver Girls: Just For Looking.\n\n4. Internet Girls: Difficult To Access.\n\n5. Server Girls: Always Busy When Needed.\n\n6. Multimedia Girls: Makes Horrible Things Looks Beautiful.\n\n7. Virus Girls: These Type Of Girls Are Normally Called Wife Once Enters In Your System Don’t Leave Even After Format.",
+            "What Is The Difference Between Men And Women?\n\n1. A Successful Man Is One Who Makes More Money Than His Wife Can Spend. A Successful Woman Is One Who Can Find Such A Man.\n\n2. Men Wake Up As Good-Looking As When They Went To Bed. Women Somehow Deteriorate During The Night.\n\n3. A Man Will Pay $2 For A $1 Item He Wants. A Woman Will Pay $1 For A $2 Item That She Doesn’t Want.\n\n4. A Woman Marries A Man Expecting He Will Change, But He Doesn’t. A Man Marries A Woman Expecting That She Won’t Change, And She Does.\n\n5. There Are Two Times When A Man Doesn’t Understand A Woman Before And After Marriage.\n\n6. A Woman Worries About The Future Until She Gets A Husband. A Man Never Worries About The Future Until He Gets A Wife.\n\n7. To Be Happy With A Man, You Must Understand Him A Lot And Love Him A Little. To Be Happy With A Woman, You Must Love Her A Lot And Not Try To Understand Her At All.\n\n8. Any Married Man Should Forget His Mistakes. There’s No Use In Two People Remembering The Same Thing!\n\n9. A Woman Has The Last Word In Any Argument. Anything A Man Says After That Is The Beginning Of A New Argument.\n\n10. Women Look At A Wedding As The Beginning Of Romance, While Men Look Aat A Wedding As The Ending Of Romance.",
+            "Suppose You Lost Your Pen?\n\nLost Your Pen – No Pen\n\nNo Pen – No Notes\n\nNo Notes – No Study\n\nNo Study – Fail\n\nFail – No Diploma\n\nNo Diploma – No Work\n\nNo Work – No Money\n\nNo Money – No Food\n\nNo Food – Skinny\n\nSkinny – Ugly\n\nUgly – No Lover\n\nNo Lover – No Marriage\n\nNo Marriage – No Children\n\nNo Children – Alone\n\nAlone – Depression\n\nDepression – Sickness\n\nSickness – Death\n\nMoral: So Never Lose Your Pen",
+            "Two Boys Were Arguing When The Teacher Entered The Classroom.\n\nTeacher: “Why Are You Arguing?”\n\nA Boy: “Miss, We Found A 100 Rupees Note And Decided To Give It To Whoever Tells The Biggest Lie.”\n\nTeacher: “You Should Be Ashamed Of Yourselves, When I Was Your Age I Didn’t Even Know What A Lie Was.”\n\nThe Boys Gave The 100 Rupees To The Teacher.",
+            "Son-In-Law To Father-In-Law:\n\nDear Dad,\n\nI Deeply Regret Taking Petrol Car In Dowry, Please Take Your Daughter Or Car Back. Can’t Afford Both.\n\nRegards,\nYour Lovey Son-In-Law",
+            "LEVIS Is Launching New Xtreme Low Waist Jeans,\n\nAnd Named As The ABCD Jeans,\n\nWhich Means Arey Baapre Chaddi Dikhti Hai.",
+            "When Your Life Is In Darkness,\n\nPray God And Ask Him To Free You From Darkness.\n\nEven After You Pray, If Your Still In Darkness,\n\nPlease Pay The Electricity Bill.",
+            "Santa’s Complaint To Flipkart Support Center:\n\nDear Flipkart, I Always Opt For “Cash On Delivery” But Your Delivery Boy Never Gives Me The Cash!",
+            "Define A True Music Lover?\n\nA Girl Singing In The Bathroom While Taking The Bath,\n\nAnd Boy Near Keyhole Is Using His Ear Not Eyes.",
+            "Once Upon A Time,\n\nEvery Man Wanted His Wife To Look Like Aishwarya,\n\nAnd Now,\n.\n.\n.\nAishwarya Has Started Looking Like Every Man’s Wife.",
+            "Dharam Bhai Means Not “Real Brother”\n\nDharam Pita Means Not “Real Father”\n\nDharam Behen Means Not “Real Sister”\n\nThen Why Dharam Patni Means “Real Wife?”\n\nPure Cheating :(",
+            "A Rich Woman Stops On A Traffic Signal And A Begger Come To Her For Begging.\n\nWoman Confused: “Arrey, I Have Seen You Somewhere.”\n\nBeggar: “Madam, Don’t You Remember? I Am Your Friend On Facebook.“",
+            "There Are Three Kinds Of Men In The World.\n\nSome Remain Single \u0026 Make Wonders Happen,\n\nSome Have Girlfriends \u0026 See Wonders Happen,\n\nThe Rest Get Married \u0026 Wonder What Happened?",
+            "Teacher: “Who Created The Earth?”\n\n(Boy Pokes A Girl’s Back With A Pen)\n\nGirl: “Oh God!”\n\nTeacher: “Good Girl. Correct Answer”\n\nTeacher Again Asked: “Who Was Born On 25 Dec?”\n\n(Boy Again Pokes The Girls Back)\n\nGirl: “Oh Jesus!”\n\nTeacher: “Very Good. Correct Answer”\n\nTeacher Again Asked: “What Did Eve Tell To Adam When They Had Their 17th Baby?”\n\n(Boy Pokes On Girl’s Back Again)\n\nGirl: “If You Don’t Stop Inserting That Thing In Me Now. I’ll Break That Into 2 Pieces And Just Put It Into Your Nostrils.”\n\nTeacher Fainted!!",
+            "Santa Traveling First Time In Plane Going To Bombay,\n\nWhile Landing, He Shouted: “Bombay-Bombay”\n\nAir Hostess: “B-Silent Please”\n\nSanta Said: “Ombay – Ombay“",
+            "Teacher: “What Should Be In A Book To Make It A Bestseller?”\n\nPappu: “A Girl On The Cover \u0026 No Cover On The Girl“",
+            "A Lecturer Teaching Medical Was Tutoring A Class On Observation.\n\nHe Took Out A Jar Of Yellow-Coloured Liquid. This, He Explained, Is Urine.\n\nTo Be A Doctor, You Have To Be Observant Two Color, Smell, Sight And Taste.\n\nAfter Saying This, He Dipped His Finger Into The Jar And Put It Into His Mouth.\n\nHis Class Watched On In Amazement, Most, In Disgust!\n\nBut Being The Good Students That They Were, The Jar Was Passed,\n\nAnd One By One, They Dipped One Finger Into The Jar,\n\nAnd Then Put It Into The Jar And Then Put It Into Their Mouth.\n\nAfter The Last Std. Was Done, The Lecturer Shook His Head!\n\nThe Lecturer: “If Any Of You Had Been Observant, You Would Have Noticed,\n\nThat To Put My Second Finger Into The Jar And My Third Finger Into My Mouth.“",
+            "Boy To Girl: “I Bet I Can Make You Say “I Love You”\n\nGirl: “Its Impossible.”\n\nBoy: “Ok, Lets Try! Say Abra Ka Dabra”\n\nGirl Hanste Hue: “Abra Ka Dabra.”\n\nBoy: “Say Scrappy Coco.”\n\nGirl Confuse: “Scrappy Coco.”\n\nBoy: “Say Love.”\n\nGirl: “Love.”\n\nBoy: “What 2+2”\n\nGirl: “4”\n\nBoy: “How Old Are You?”\n\nGirl: “18”\n\nBoy: “Haha!! I Told You I Could Make You Say 18.”\n\nGirl: “No, You Said You Could Make Me Say I Love You.”\n\nBoy: “Yes, I Did It.“",
+            "Difference Between Friend And Wife?\n\nYou Can Tell Your Friend: “You Are My Best Friend”\n\nBut\n\nDo You Have Courage Telling Your Wife: “You Are My Best Wife?“",
+            "Girl Got Selected And Boy Failed In Interview By Same Reason.\n\nThey Both Were Wearing Shirts With Two Top Buttons Opened Before The CEO.",
+            "Teacher: “Which Of The Two Travels Faster, Heat Or Cold?”\n\nStudent: “Heat”\n\nTeacher: “What Makes You Think That?”\n\nStudent: “Because We Catch Cold“",
+            "Man Dies. In Heaven He Sees A Large Wall Full Of Clocks.\n\nHe Asks Angel: “What Are These For?”\n\nAngel Answers: “These Are Lie Clocks, Every Person Has Lie Clock! Whenever You Lie On Earth, Clock Moves.”\n\nThe Man Points Towards A Clock And Asks: “Whose Clock Is This?”\n\nAngel Says: “Its Mother Teresa’s. It Never Moved, Showing That She Never Told Lie”\n\nThe Man Asks: “Where Is Indian Politician’s Clock?”\n\nAngel Replies: “That’s In Our Office, We Use It As Table Fan“",
+            "Girl Friend: “My Heart Is Like A Mobile And You Are The SIM Card”\n\nBoy Friend: “I’m Very Happy”\n\nGirl Friend: “Don’t Be Too Happy, If I Get A New Offer, I Will Change The SIM Card“",
+            "A Very Genuine Question Asked By Santa\n\nIf Marriage Age Is 21 \u0026 Drinking Age Is 25,\n\nCan The Government Tell Me How To Survive The First Four Years Of Marriage?",
+            "A Russian While Visiting India Went For An Eye Check Up.\n\nThe Dr. Shows The Letters On The Board “CZWXNQSTAZKY” \u0026 Asked.\n\nDoctor: “Can You Read This?”\n\nRussian: “Read? I Even Know This Guy. He’s My Cousin.”",
+            "Fact Of Girl And Boy:\n\nEvery Girl Wants A Bad Boy Who Will Be Good Just For Her,\n\nAnd\n\nEvery Boy Wants A Good Girl Who Will Be Bad Just For Him.",
+            "A Girl Is Shouting In Her Bedroom.\n\nAhh\n\nAhh\n\nAhh\n\nAhh\n\nAhh\n\nAhh\n\nAhh\n\nAhh\n\nHaaccchhii…\n\nShe’s Suffering From Cold.\n\nChiii Gande Non Veg Jokes Ki Aadat Pad Gayi Hai Tum Logo Ko."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508777689064,
+  "fallbackIntent": false,
+  "events": []
+}

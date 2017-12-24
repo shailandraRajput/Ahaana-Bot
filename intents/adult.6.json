@@ -1,0 +1,29 @@
+{
+  "id": "35d211e2-9906-4e65-aacb-6f44c9f5514e",
+  "name": "adult.6",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027m Not like that. it is so ugly"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134194,
+  "fallbackIntent": false,
+  "events": []
+}

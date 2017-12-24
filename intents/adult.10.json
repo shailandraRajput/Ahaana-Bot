@@ -1,0 +1,28 @@
+{
+  "id": "d0d3f5e0-b0de-4550-bb31-f3a4b6578a16",
+  "name": "adult.10",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "i not read this type of novel"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134431,
+  "fallbackIntent": false,
+  "events": []
+}

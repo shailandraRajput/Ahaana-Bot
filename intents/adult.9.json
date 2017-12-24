@@ -1,0 +1,28 @@
+{
+  "id": "f519b496-472b-4aa6-a8dc-3b4cb80809b3",
+  "name": "adult.9",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Not With any"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134381,
+  "fallbackIntent": false,
+  "events": []
+}

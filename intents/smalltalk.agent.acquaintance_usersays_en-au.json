@@ -1,0 +1,256 @@
+[
+  {
+    "id": "354155b4-cf84-465e-855e-e62df4d4aec0",
+    "data": [
+      {
+        "text": "tell me some stuff about you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f378146-0a63-4662-ac2f-6111830766f6",
+    "data": [
+      {
+        "text": "describe yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86225474-b15e-4ed2-b747-1c61056a4a4e",
+    "data": [
+      {
+        "text": "talk about ",
+        "userDefined": false
+      },
+      {
+        "text": "yourself",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38f5c8b7-4489-4420-b37d-2265fd4d1a19",
+    "data": [
+      {
+        "text": "tell me about your personality",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d5303db-d19f-4de0-a7c5-1b9d28b11d84",
+    "data": [
+      {
+        "text": "define yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9bca9404-e7ee-49bd-9c72-52df516771b5",
+    "data": [
+      {
+        "text": "about yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adb7b8c4-7c0e-4446-a47e-d39411820321",
+    "data": [
+      {
+        "text": "talk some stuff about ",
+        "userDefined": false
+      },
+      {
+        "text": "yourself",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "117f6883-b93e-476c-8ca1-f88f64b8e2ee",
+    "data": [
+      {
+        "text": "I want to know you better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "490b66cd-3bd6-4131-86bc-0ffec68ce45f",
+    "data": [
+      {
+        "text": "tell me about yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "027579c3-3d6f-4749-9c8e-db6bd3e3474d",
+    "data": [
+      {
+        "text": "all",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4c2ded6-ca9c-46e2-b812-6bf5fd9502af",
+    "data": [
+      {
+        "text": "say about you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeded582-edad-4742-af83-b20eb8f8217f",
+    "data": [
+      {
+        "text": "introduce yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0842d4f-20fe-4033-b83c-247a34820ad3",
+    "data": [
+      {
+        "text": "why ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " you ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe50380b-d910-4fd5-8373-3dbfdb833760",
+    "data": [
+      {
+        "text": "tell me about you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "08e8a83a-e4dd-443f-8564-b9a8724eb068",
+    "data": [
+      {
+        "text": "what are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e5f29a4-3061-4fc4-ab0a-afe9d46c2ea0",
+    "data": [
+      {
+        "text": "who are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "af63e99e-44ee-4328-b122-edf0322cdbdf",
+    "data": [
+      {
+        "text": "what is your personality",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "527888fe-c0ba-4da5-a666-dead3ddbfc41",
+    "data": [
+      {
+        "text": "I want to know more about you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

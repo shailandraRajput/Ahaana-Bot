@@ -1,0 +1,81 @@
+{
+  "id": "c55ddb16-9499-4dac-9128-0333081c2a53",
+  "name": "smalltalk.agent.origin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.origin",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dc5aa933-0430-4b5b-b07c-d4d5d2313893",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "prompts": [
+            {
+              "lang": "en-in",
+              "value": "Where are you from"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am From India"
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": "I am From India"
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Some call it cyberspace, but that sounds cooler than it is.",
+            "I wish I knew where."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Some call it cyberspace, but that sounds cooler than it is.",
+            "I wish I knew where."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Some call it cyberspace, but that sounds cooler than it is.",
+            "I wish I knew where."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": [
+            "Some call it cyberspace, but that sounds cooler than it is.",
+            "I wish I knew where."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578513,
+  "fallbackIntent": false,
+  "events": []
+}

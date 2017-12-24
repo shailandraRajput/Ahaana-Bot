@@ -1,0 +1,28 @@
+{
+  "id": "ba77dc3c-2c23-4e61-8e09-0e66c1f64839",
+  "name": "adult.20",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514134697,
+  "fallbackIntent": false,
+  "events": []
+}
