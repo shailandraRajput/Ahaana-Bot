@@ -7,9 +7,20 @@
     {
       "resetContexts": false,
       "action": "input.welcome",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "NAME",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
       "parameters": [],
       "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hello, I\u0027m Mason - the Tourist Bot! How can I help you?"
+        },
         {
           "type": 0,
           "lang": "en-in",
@@ -18,28 +29,10 @@
             "Hello",
             "Hi"
           ]
-        },
-        {
-          "type": "suggestion_chips",
-          "platform": "google",
-          "lang": "en",
-          "suggestions": [
-            {
-              "title": "Tell me a joke"
-            }
-          ]
-        },
-        {
-          "type": 0,
-          "lang": "en",
-          "speech": [
-            "Hello My dear Friend",
-            "Hello How Are You"
-          ]
         }
       ],
       "defaultResponsePlatforms": {
-        "google": true
+        "facebook": true
       },
       "speech": []
     }

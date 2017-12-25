@@ -1,0 +1,86 @@
+{
+  "id": "957822ee-5d85-4ed1-9e70-23966ef094eb",
+  "name": "Capabilities",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "61efdbbf-dd84-4b2d-b8c5-a16a2bdd4f64",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Kerala",
+          "imageUrl": "https://www.keralatourism.org/images/houseboat-1024x576.jpg",
+          "buttons": [
+            {
+              "text": "Tourist Places in Kerala"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Goa",
+          "imageUrl": "https://tmi2-tourmyindiapvtlt.netdna-ssl.com/blog/wp-content/uploads/2015/03/goa-tourism.jpg",
+          "buttons": [
+            {
+              "text": "Tourist Places in Goa"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Andhra Pradesh",
+          "imageUrl": "http://www.bignetindia.com/wp-content/uploads/2015/10/andra-ap-india.jpg",
+          "buttons": [
+            {
+              "text": "Tourist Places in Andhra"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Karnataka",
+          "imageUrl": "http://www.travelandtourworld.com/wp-content/uploads/2016/09/Karnataka-Tourism-Department.jpg",
+          "buttons": [
+            {
+              "text": "Tourist Places in Karnataka"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes I can suggest you which place is good for visiting send me city name"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512308869,
+  "fallbackIntent": false,
+  "events": []
+}

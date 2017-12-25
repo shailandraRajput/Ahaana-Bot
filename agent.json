@@ -1,5 +1,5 @@
 {
-  "description": "A AI Powered ChatBot That chat with you like human being.currently in beta version.",
+  "description": "",
   "language": "en",
   "shortDescription": "Small talk topics to help make your bot more personable",
   "examples": "User: Hello!\nUser: How are you?\nUser: Thank you!\nUser: You\u0027re welcome.\nUser: What\u0027s up?\nUser: I\u0027m bored.\nUser: I\u0027m joking.\nUser: Well done!\nUser: Who are you?\nUser: How old are you?\nUser: You\u0027re clever.\nUser: What do you do for fun?",
@@ -7,6 +7,7 @@
   "disableInteractionLogs": false,
   "googleAssistant": {
     "googleAssistantCompatible": false,
+    "project": "tourist-bot",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
@@ -17,18 +18,22 @@
     },
     "voiceType": "MALE_1",
     "capabilities": [],
-    "protocolVersion": "V1"
+    "protocolVersion": "V2"
   },
-  "defaultTimezone": "Asia/Colombo",
+  "defaultTimezone": "Asia/Almaty",
   "webhook": {
-    "available": false,
+    "url": "https://us-central1-ahaana-593d4.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
+    "available": true,
     "useForDomains": false,
-    "cloudFunctionsEnabled": false,
-    "cloudFunctionsInitialized": false
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
   },
-  "isPrivate": false,
-  "customClassifierMode": "use.instead",
-  "mlMinConfidence": 0.6,
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
   "supportedLanguages": [
     "en-au",
     "en-ca",

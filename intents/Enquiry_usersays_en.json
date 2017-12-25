@@ -1,0 +1,95 @@
+[
+  {
+    "id": "df372244-ceb0-4769-aeeb-b336fc788273",
+    "data": [
+      {
+        "text": "Mumbai",
+        "alias": "States",
+        "meta": "@States",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd055758-f7b7-4a92-983e-a2ffe38164f9",
+    "data": [
+      {
+        "text": "karnataka",
+        "alias": "States",
+        "meta": "@States",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98551b7f-8b83-4359-800e-2454e5acc9fc",
+    "data": [
+      {
+        "text": "kerala",
+        "alias": "States",
+        "meta": "@States",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff03cbbd-3bf5-4e8d-b3a0-d9dcb082a619",
+    "data": [
+      {
+        "text": "What are the tourist places that can see in ",
+        "userDefined": false
+      },
+      {
+        "text": "TS",
+        "alias": "States",
+        "meta": "@States",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512309801
+  },
+  {
+    "id": "7924c323-7275-4dd1-8c47-37e80ae28d70",
+    "data": [
+      {
+        "text": "May I know the tourist places near ",
+        "userDefined": false
+      },
+      {
+        "text": "karnataka",
+        "alias": "States",
+        "meta": "@States",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512309801
+  },
+  {
+    "id": "fc19717a-6910-41bf-a4fe-10c74179433f",
+    "data": [
+      {
+        "text": "what is the best places in ",
+        "userDefined": false
+      },
+      {
+        "text": "Ap",
+        "alias": "States",
+        "meta": "@States",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512309801
+  }
+]

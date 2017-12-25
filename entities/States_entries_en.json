@@ -1,0 +1,40 @@
+[
+  {
+    "value": "Andhra Pradesh",
+    "synonyms": [
+      "Andhra Pradesh",
+      "AP",
+      "Andhra",
+      "andrapradesh"
+    ]
+  },
+  {
+    "value": "Goa",
+    "synonyms": [
+      "Goa",
+      "goa"
+    ]
+  },
+  {
+    "value": "Telangana",
+    "synonyms": [
+      "Telangana",
+      "telangana",
+      "TS"
+    ]
+  },
+  {
+    "value": "Kerala",
+    "synonyms": [
+      "Kerala",
+      "KL"
+    ]
+  },
+  {
+    "value": "Karnataka",
+    "synonyms": [
+      "Karnataka",
+      "KA"
+    ]
+  }
+]

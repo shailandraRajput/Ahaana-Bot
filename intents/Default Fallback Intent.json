@@ -12,25 +12,6 @@
       "messages": [
         {
           "type": 0,
-          "lang": "en-in",
-          "speech": [
-            "Sorry What Was That",
-            "I miss That",
-            "I don\u0027t Know"
-          ]
-        },
-        {
-          "type": "suggestion_chips",
-          "platform": "google",
-          "lang": "en",
-          "suggestions": [
-            {
-              "title": "Tell me a joke"
-            }
-          ]
-        },
-        {
-          "type": 0,
           "lang": "en",
           "speech": [
             "I didn\u0027t get that. Can you say it again?",
@@ -46,11 +27,18 @@
             "I didn\u0027t get that.",
             "I missed that."
           ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Sorry What Was That",
+            "I miss That",
+            "I don\u0027t Know"
+          ]
         }
       ],
-      "defaultResponsePlatforms": {
-        "google": true
-      },
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

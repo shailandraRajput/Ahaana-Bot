@@ -1,0 +1,50 @@
+{
+  "id": "a60de2fe-29c2-4946-9eb3-9cb68f7aa5c5",
+  "name": "Enquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Places",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1168aee2-c872-4860-977f-c382b268e5b0",
+          "required": true,
+          "dataType": "@States",
+          "name": "States",
+          "value": "$States",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify the city that you are looking for?"
+            },
+            {
+              "lang": "en",
+              "value": "Can you help mention the city?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1512309801,
+  "fallbackIntent": false,
+  "events": []
+}

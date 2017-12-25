@@ -1,0 +1,32 @@
+[
+  {
+    "id": "87eb9d54-8f01-48e7-ac83-653bed6930f5",
+    "data": [
+      {
+        "text": "help me to find place for visiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512308869
+  },
+  {
+    "id": "0ef7d28b-6ec1-40e9-b06f-d44373efa139",
+    "data": [
+      {
+        "text": "Can you please suggest me which place is good to visit in ",
+        "userDefined": false
+      },
+      {
+        "text": "Ahmedabad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512308869
+  }
+]
