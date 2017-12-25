@@ -1,0 +1,31 @@
+{
+  "id": "f23c6a8f-caee-4517-8aac-02d893e6208c",
+  "name": "Adult00",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hey talk with respect 😡😡😡😡😡",
+            "I am Bot , Talk with respect 😡😡😡😡"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514212152,
+  "fallbackIntent": false,
+  "events": []
+}

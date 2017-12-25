@@ -1,6 +1,54 @@
 [
   {
-    "id": "a92d2b8d-74b0-475a-9a49-87d0146b001b",
+    "id": "4b5fe820-1ec0-4e9d-bf41-a956818bb303",
+    "data": [
+      {
+        "text": "😄",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e89d0bd-2075-41b5-b129-cbe25103200d",
+    "data": [
+      {
+        "text": "😄",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca423747-3412-41b1-be91-0b713a124531",
+    "data": [
+      {
+        "text": "😄",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a9b8f66-de34-48b9-baa8-fd46dc25f2e8",
+    "data": [
+      {
+        "text": "😄",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e20d303d-50a9-45ea-89c5-297e1b2ffdd0",
     "data": [
       {
         "text": "👩‍❤️‍💋‍👩 👨‍❤️‍💋‍👨",
@@ -11,7 +59,7 @@
     "count": 0
   },
   {
-    "id": "dd790c28-3cee-4e23-aa83-021a12f3f9c3",
+    "id": "443165a8-ab73-403e-8eab-055f2fd34ae1",
     "data": [
       {
         "text": "💏",
@@ -22,7 +70,7 @@
     "count": 0
   },
   {
-    "id": "031ee4b9-7cf0-4e99-921c-a0fc5d8309e5",
+    "id": "781de97a-092f-4811-826b-67cd73037f55",
     "data": [
       {
         "text": "👨‍👩‍👧‍👧",
@@ -33,7 +81,7 @@
     "count": 0
   },
   {
-    "id": "d47f516f-ac25-46b6-b94b-414155931ae0",
+    "id": "53d1816c-b208-4b22-9fc0-4f8382903c98",
     "data": [
       {
         "text": "👎",
@@ -44,7 +92,7 @@
     "count": 0
   },
   {
-    "id": "bbe52d84-78bf-492c-947c-828697f098d1",
+    "id": "a2e95404-ad16-4573-9c91-6b67373ecb14",
     "data": [
       {
         "text": "👍",
@@ -55,7 +103,7 @@
     "count": 0
   },
   {
-    "id": "95cb2629-7335-439d-a4aa-762a41b67383",
+    "id": "eb25f76a-29d7-43f7-9c15-8e3700d3c3b6",
     "data": [
       {
         "text": "👊",
@@ -66,7 +114,7 @@
     "count": 0
   },
   {
-    "id": "6e7bb2f9-d158-460f-9f52-b78cf71099a9",
+    "id": "b22cc8ac-bdc1-4849-9355-a67afeb0a72e",
     "data": [
       {
         "text": "😣",
@@ -77,7 +125,7 @@
     "count": 0
   },
   {
-    "id": "51fe681a-73c5-4bc3-a6c3-f6b3bfe7daff",
+    "id": "0637c76c-582d-4a67-b956-dedf2716e7b2",
     "data": [
       {
         "text": "😖",
@@ -88,7 +136,7 @@
     "count": 0
   },
   {
-    "id": "657713ad-0717-4aad-9ff9-7c21510127d8",
+    "id": "d934d962-f51e-4e9b-8aee-1b686c43181c",
     "data": [
       {
         "text": "😔",
@@ -99,7 +147,7 @@
     "count": 0
   },
   {
-    "id": "5f6d5662-31ba-4d1b-9086-574f8008ea95",
+    "id": "74a0505c-f0d8-4277-aed6-44938282f864",
     "data": [
       {
         "text": "😞",
@@ -110,7 +158,7 @@
     "count": 0
   },
   {
-    "id": "488a4330-de1d-44ae-aae5-b453cf100196",
+    "id": "ff920c85-13b4-4d74-87ed-5be620f68203",
     "data": [
       {
         "text": "😒",
@@ -121,7 +169,7 @@
     "count": 0
   },
   {
-    "id": "aa871680-b4a2-4a76-94b6-0f08cf00dcfd",
+    "id": "c48af405-b246-4c1a-806f-cea0f8cbc34d",
     "data": [
       {
         "text": "😏",
@@ -132,7 +180,7 @@
     "count": 0
   },
   {
-    "id": "df6c37d0-f667-4455-b07f-71e7eba91d82",
+    "id": "1adc6c95-871d-4df4-995a-630230684ee1",
     "data": [
       {
         "text": "🤑",
@@ -143,7 +191,7 @@
     "count": 0
   },
   {
-    "id": "704e9bf5-9768-47e7-b74f-aa111e92a3a6",
+    "id": "115357de-cdd6-43ee-b812-4b45e6ece7c9",
     "data": [
       {
         "text": "😛",
@@ -154,7 +202,7 @@
     "count": 0
   },
   {
-    "id": "7a03b665-3a8f-4102-95aa-ea3ddad3572b",
+    "id": "caf15e83-fc08-4306-8687-e12ea3a169c9",
     "data": [
       {
         "text": "😝",
@@ -165,7 +213,7 @@
     "count": 0
   },
   {
-    "id": "778d5696-1eea-4ab0-83fb-9ac335783a55",
+    "id": "9221be4c-6b71-4b10-97c1-0c0453b7d16e",
     "data": [
       {
         "text": "😜",
@@ -176,7 +224,7 @@
     "count": 0
   },
   {
-    "id": "e4f58b27-711f-4c6f-9a58-206c46925c69",
+    "id": "b9f2f96b-18f3-40c3-aa4f-a0f858b7b4c8",
     "data": [
       {
         "text": "😋",
@@ -187,7 +235,7 @@
     "count": 0
   },
   {
-    "id": "e713a407-653f-42aa-94b0-b76518ba5892",
+    "id": "99532c22-e6a3-4227-91b7-017bd8b737ad",
     "data": [
       {
         "text": "😚",
@@ -198,7 +246,7 @@
     "count": 0
   },
   {
-    "id": "dca33dba-bb58-4d01-9b3a-090873163978",
+    "id": "19c96003-f99b-4777-82ed-298fe8718080",
     "data": [
       {
         "text": "😙",
@@ -209,7 +257,7 @@
     "count": 0
   },
   {
-    "id": "23892afc-cf69-4a7a-8509-1f3dbc917bc1",
+    "id": "9cbe94de-6de0-4141-bd2b-e6324c828a6f",
     "data": [
       {
         "text": "😗",
@@ -220,7 +268,7 @@
     "count": 0
   },
   {
-    "id": "8509739d-8116-436f-8b66-f0a58ec31bd4",
+    "id": "30a305ae-cb0f-492e-afed-7c098ecb9b30",
     "data": [
       {
         "text": "😘",
@@ -231,7 +279,7 @@
     "count": 0
   },
   {
-    "id": "9add8e4a-3641-44fe-b1b9-8b39f22e415e",
+    "id": "95c3a811-c765-4937-bcef-402f6246c632",
     "data": [
       {
         "text": "😍",
@@ -242,7 +290,7 @@
     "count": 0
   },
   {
-    "id": "ca262a69-196e-4ee7-8a1c-42ab11ca8305",
+    "id": "69271bc8-7279-46cf-bf2a-cd219b59f6c4",
     "data": [
       {
         "text": "😄",
@@ -253,7 +301,7 @@
     "count": 0
   },
   {
-    "id": "251b781e-244f-4796-85fd-f00b91b5b1e9",
+    "id": "7b4b032e-d51d-4cf0-81b5-534399b7daad",
     "data": [
       {
         "text": "😁",
@@ -264,7 +312,7 @@
     "count": 0
   },
   {
-    "id": "36b7437a-fed1-486a-b6b8-d708aabc6315",
+    "id": "e3a1948a-8fe7-4a90-b2c4-e94d9b7c602f",
     "data": [
       {
         "text": "😆",

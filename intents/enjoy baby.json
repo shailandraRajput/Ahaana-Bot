@@ -1,0 +1,28 @@
+{
+  "id": "82057be3-363a-41d8-ab57-54c6a0568cf8",
+  "name": "enjoy baby",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am always Enjoy"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514212074,
+  "fallbackIntent": false,
+  "events": []
+}

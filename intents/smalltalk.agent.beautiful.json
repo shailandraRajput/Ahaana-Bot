@@ -12,6 +12,14 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
+          "speech": [
+            "Thank you! What a sweet thing to say.",
+            "Flattery will get you everywhere."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en-in",
           "speech": [
             "Thank you! What a sweet thing to say.",
@@ -22,14 +30,6 @@
         {
           "type": 0,
           "lang": "en-gb",
-          "speech": [
-            "Thank you! What a sweet thing to say.",
-            "Flattery will get you everywhere."
-          ]
-        },
-        {
-          "type": 0,
-          "lang": "en",
           "speech": [
             "Thank you! What a sweet thing to say.",
             "Flattery will get you everywhere."
